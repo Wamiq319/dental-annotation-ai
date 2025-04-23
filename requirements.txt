@@ -1,0 +1,6 @@
+opencv-python-headless
+pandas
+numpy
+pydicom
+pillow
+python-dotenv
