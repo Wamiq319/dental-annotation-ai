@@ -1,0 +1,110 @@
+[
+    {
+        "filename": "image 6_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "photo 4_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "photo 3_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "image 9_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "image 10_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "photo 1_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "images 8_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "photo 2_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    },
+    {
+        "filename": "image 7_tooth.jpg",
+        "bounding_boxes": [
+            {
+                "x1": 128,
+                "y1": 128,
+                "x2": 384,
+                "y2": 384,
+                "label": "tooth"
+            }
+        ]
+    }
+]

@@ -1,0 +1,164 @@
+{
+    "image 6_tooth.jpg": {
+        "filename": "image 6_tooth.jpg",
+        "size": 52374,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "photo 4_tooth.jpg": {
+        "filename": "photo 4_tooth.jpg",
+        "size": 49949,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "photo 3_tooth.jpg": {
+        "filename": "photo 3_tooth.jpg",
+        "size": 48541,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "image 9_tooth.jpg": {
+        "filename": "image 9_tooth.jpg",
+        "size": 46290,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "image 10_tooth.jpg": {
+        "filename": "image 10_tooth.jpg",
+        "size": 59537,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "photo 1_tooth.jpg": {
+        "filename": "photo 1_tooth.jpg",
+        "size": 44411,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "images 8_tooth.jpg": {
+        "filename": "images 8_tooth.jpg",
+        "size": 55869,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "photo 2_tooth.jpg": {
+        "filename": "photo 2_tooth.jpg",
+        "size": 52449,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    },
+    "image 7_tooth.jpg": {
+        "filename": "image 7_tooth.jpg",
+        "size": 39375,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 128,
+                    "width": 256,
+                    "height": 256
+                },
+                "region_attributes": {
+                    "label": "tooth"
+                }
+            }
+        ]
+    }
+}
